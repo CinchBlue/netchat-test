@@ -1,0 +1,3 @@
+[submodule "dep/boost"]
+	path = dep/boost
+	url = https://github.com/boostorg/boost
